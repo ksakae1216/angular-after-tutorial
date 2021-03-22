@@ -136,5 +136,8 @@
       }
     }
   },
-  "defaultProject": "angular-after-tutorial"
+  "defaultProject": "angular-after-tutorial",
+  "cli": {
+    "analytics": "36599e3a-6bda-48ac-be1c-999acf9217f9"
+  }
 }
